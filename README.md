@@ -13,7 +13,7 @@ It's sample Food Suggestion Form which was designed by me. It's my Guvi-Zen clas
 
 ## Lessons Learned
 
-I learned to implement HTML Elements manipulation in Javscript using DOM and some specified classes in Bootstrap during this project
+I learned to implement HTML Elements manipulation in Javascript using DOM and some specified classes in Bootstrap during this project
 
 
 ## Features
