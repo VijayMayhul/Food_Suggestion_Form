@@ -8,9 +8,6 @@ body {
         font-size: 20px !important;
     }
 }
-#title{
-
-}
 .lgCol, .title, #description{
     backdrop-filter: blur(0px) saturate(180%);
     -webkit-backdrop-filter: blur(0px) saturate(180%);
