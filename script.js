@@ -1,7 +1,7 @@
 var subBut = document.getElementById("submit");
 // console.log(subBut);
-subBut.addEventListener("click", ()=>{
-
+subBut.addEventListener("click", (e)=>{
+    e.preventDefault();
    // Getting input text values
    let firstName = document.getElementById('first-name').value;
    let lastName = document.getElementById('last-name').value;
